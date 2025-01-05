@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @FaiBdev
-- 👀 I’m interested in software development, art and books 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @FaiBdev ♡ student
+- 👀 I’m interested in software development, art, tech innovation,(aerospace, quantum computer, biotechnology)
+- 🌱 I’m currently learning programming in Python, C#, Java
 - 😄 Pronouns: Her
-- ⚡ Fun fact: ...
 
 <!---
 FaiBdev/FaiBdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
